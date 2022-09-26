@@ -1,0 +1,130 @@
+﻿@page
+@model Taller.App.Front.Pages.vehiculoModel
+@{
+}
+<style>
+  body {background-image: url('https://cdn.euroinnova.edu.es/img/subidasEditor/taller%20automotriz1-1612626430.webp');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+  }
+</style>
+<div class="text-center">
+  <h2 class="display-4">Vehículos registrados </h2>
+</div>
+<style>
+  body {
+    background-color: #fffbed;
+  }
+</style>
+
+<div>
+
+  <div class="posicion-usuario">
+    <table class="table table-dark  table table-hover table-bordered">
+      <thead>
+        <tr>
+          <th>Placa</th>
+          <th>Tipo</th>
+          <th>Marca</th>
+          <th>Modelo</th>
+          <th>Capacidad de Pasajeros</th>
+          <th>Cilindraje del motor</th>
+          <th>Pais Origen</th>
+          <th>Accion</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>ASD134</td>
+          <td>Micro bus</td>
+          <td>Renault</td>
+          <td>1995</td>
+          <td>10</td>
+          <td>1500 CC</td>
+          <td>China</td>
+          <td><button type="button" class="btn btn-primary btn-sm" data-bs-toggle="modal"
+              data-bs-target="#myModal">Detalle</button></td>
+        </tr>
+        <tr>
+          <td>ASD134</td>
+          <td>Micro bus</td>
+          <td>Renault</td>
+          <td>1995</td>
+          <td>10</td>
+          <td>1500 CC</td>
+          <td>China</td>
+          <td><button type="button" class="btn btn-primary btn-sm" data-bs-toggle="modal"
+              data-bs-target="#myModal">Detalle</button></td>
+        </tr>
+        <tr>
+          <td>ASD134</td>
+          <td>Micro bus</td>
+          <td>Renault</td>
+          <td>1995</td>
+          <td>10</td>
+          <td>1500 CC</td>
+          <td>China</td>
+          <td><button type="button" class="btn btn-primary btn-sm" data-bs-toggle="modal"
+              data-bs-target="#myModal">Detalle</button></td>
+        </tr>
+        <tr>
+          <td>TRG134</td>
+          <td>Micro bus</td>
+          <td>Mazda</td>
+          <td>1995</td>
+          <td>10</td>
+          <td>1500 CC</td>
+          <td>Colombia</td>
+          <td><button type="button" class="btn btn-primary btn-sm" data-bs-toggle="modal"
+              data-bs-target="#myModal">Detalle</button></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <body>
+    <!-- The Modal -->
+    <div class="modal" id="myModal">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+
+          <!-- Modal Header -->
+          <div class="modal-header">
+            <h4 class="modal-title">Detalle del vehiculo</h4>
+            <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+          </div>
+
+          <!-- Modal body -->
+          <div class="modal-body">
+            <div class="cs-vehiculo">Placa </div>
+            <div class="cs-vehiculod">ASD134 </div><br>
+            <div class="cs-vehiculo">Tipo </div>
+            <div class="cs-vehiculod">Micro bus </div><br>
+            <div class="cs-vehiculo">Marca </div>
+            <div class="cs-vehiculod">Renault </div><br>
+            <div class="cs-vehiculo">Modelo </div>
+            <div class="cs-vehiculod">1995 </div><br>
+            <div class="cs-vehiculo">Capacidad de Pasajeros </div>
+            <div class="cs-vehiculod">10 </div><br>
+            <div class="cs-vehiculo">Cilindraje del motor </div>
+            <div class="cs-vehiculod">1500 CC </div><br>
+            <div class="cs-vehiculo">Pais Origen</div>
+            <div class="cs-vehiculod">China </div><br>
+            <div class="cs-vehiculo">Descripcion</div>
+            <div class="cs-vehiculod">Cuenta con aire acondicionado, televisor, alarma y asistente de arranque en pendiente. </div><br>
+          </div>
+
+          <!-- Modal footer -->
+          <div class="modal-footer">
+            <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Cerrar</button>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+
+  </body>
+  </div>

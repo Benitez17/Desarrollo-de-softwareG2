@@ -1,0 +1,79 @@
+﻿@page
+@model Taller.App.Front.Pages.mecanicoModel
+@{
+}
+<style>
+  body {background-image: url('https://cdn.euroinnova.edu.es/img/subidasEditor/taller%20automotriz1-1612626430.webp');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+  }
+</style>
+ <div class="text-center">
+    <h2 class="display-4">Mencanicos registrados </h2> 
+</div>
+<style>
+    body {
+        background-color: #fffbed;
+    }
+</style>
+<div>
+    <div class="posicion-usuario">
+        <table class="table table-dark  table table-hover table-bordered">
+            <thead>
+                <tr>
+                    <th>Cedula</th>
+                    <th>Nombre</th>
+                    <th>Tel Contacto</th>
+                    <th>Fecha Nacimiento</th>
+                    <th>Direccion</th>
+                    <th>Ciudad</th>
+                    <th>Nivel Estudios</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1095362452</td>
+                    <td>Pedro David Guerrero Serrano</td>
+                    <td>3166714114</td>
+                    <td>17/11/1995</td>
+                    <td>cra 25a # 33 -54</td>
+                    <td>Bogota</td>
+                    <td>Ingeniero</td>
+                </tr>
+                <tr>
+                    <td>1575474</td>
+                    <td>Carlos Arturo Gomez</td>
+                    <td>3156334123</td>
+                    <td>27/05/1995</td>
+                    <td>cra 25a # 33 -54</td>
+                    <td>Bogota</td>
+                    <td>Tecnico</td>
+
+                </tr>
+                <tr>
+                    <td>1094567432</td>
+                    <td>Maria Paulina Gimenez</td>
+                    <td>3202456784</td>
+                    <td>03/11/1990</td>
+                    <td>cra 25a # 33 -54</td>
+                    <td>Cartagena</td>
+                    <td>Tecnologo</td>
+
+                </tr>
+                <tr>
+                    <td>10932456783</td>
+                    <td>Carlos Jimenez Pinto</td>
+                    <td>3156786545</td>
+                    <td>18/01/1983</td>
+                    <td>cra 25a # 33 -54</td>
+                    <td>Cali</td>
+                    <td>Tecnologo</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+<div class="cs-container">
+        <a class="nav-link text-dark" asp-area="" asp-page="/creacionMecanico/creacionMecanico">NUEVO MECANICO</a>
+    </div>

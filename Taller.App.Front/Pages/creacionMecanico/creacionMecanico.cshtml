@@ -1,0 +1,69 @@
+﻿@page
+@model Taller.App.Front.Pages.creacionMecanicoModel
+@{
+}
+<style>
+    body {
+        background-color: #fffbed;
+    }
+</style>
+<div class="cs-vehiculod">
+    <H1>Informacion Usuario</H1>
+</div>
+<form class="row g-3">
+    <div class="col-md-2">
+        <label for="inputZip" class="form-label">Numero de documento</label>
+        <input type="number" class="form-control" id="inputZip" required>
+    </div>
+    <div class="col-md-4">
+        <label for="inputNombre" class="form-label">Nombre Completo</label>
+        <input type="text" class="form-control" id="inputNombre" required>
+    </div>
+    <div class="col-md-4">
+        <label for="inputPassword4" class="form-label">Telefono de contacto</label>
+        <input type="number" class="form-control" id="inputPassword4" required>
+    </div>
+    <div class="col-md-2">
+        <label for="inputAddress" class="form-label">Fecha de Nacimiento</label>
+        <input type="date" class="form-control" id="inputAddress" required>
+    </div>
+    <div class="col-md-4">
+        <label for="inputDireccion" class="form-label">Direccion</label>
+        <input type="text" class="form-control" id="inputDireccion" required>
+    </div>
+    <div class="col-md-2">
+        <label for="inputCiudad" class="form-label">Ciudad</label>
+        <select id="inputCiudad" class="form-select">
+            <option selected>Medellín</option>
+            <option>Bogotá</option>
+            <option>Manizales</option>
+            <option>Barranquilla</option>
+            <option>Pereira</option>
+            <option>Armenia</option>
+            <option>Cali</option>
+            <option>Pasto</option>
+        </select>
+    </div>
+     <div class="col-md-2">
+        <label for="inputTipoVehiculo" class="form-label">Nivel de Estudio</label>
+        <select id="inputTipoVehiculo" class="form-select">
+            <option selected>Bachiller </option>
+            <option>Tecnico </option>
+            <option>Tecnologo </option>
+            <option>Ingeniero</option>
+        </select>
+    </div>
+    
+        
+        <div class="col-12">
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" id="gridCheck">
+                <label class="form-check-label" for="gridCheck">
+                    No soy un robot
+                </label>
+            </div>
+        </div>
+        <div class="col-12">
+            <button type="submit" class="btn btn-primary">Registrar</button>
+        </div>
+</form>

@@ -1,0 +1,156 @@
+C:\Users\KO CONST\Desktop\Equip 2 g10\Taller.App\Taller.App.Front\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\KO CONST\Desktop\Equip 2 g10\Taller.App\Taller.App.Front\bin\Debug\net6.0\appsettings.json
+C:\Users\KO CONST\Desktop\Equip 2 g10\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.staticwebassets.runtime.json
+C:\Users\KO CONST\Desktop\Equip 2 g10\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.exe
+C:\Users\KO CONST\Desktop\Equip 2 g10\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.deps.json
+C:\Users\KO CONST\Desktop\Equip 2 g10\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.runtimeconfig.json
+C:\Users\KO CONST\Desktop\Equip 2 g10\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.dll
+C:\Users\KO CONST\Desktop\Equip 2 g10\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.pdb
+C:\Users\KO CONST\Desktop\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.csproj.AssemblyReference.cache
+C:\Users\KO CONST\Desktop\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KO CONST\Desktop\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.AssemblyInfoInputs.cache
+C:\Users\KO CONST\Desktop\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.AssemblyInfo.cs
+C:\Users\KO CONST\Desktop\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.csproj.CoreCompileInputs.cache
+C:\Users\KO CONST\Desktop\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KO CONST\Desktop\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.RazorAssemblyInfo.cache
+C:\Users\KO CONST\Desktop\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.RazorAssemblyInfo.cs
+C:\Users\KO CONST\Desktop\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\KO CONST\Desktop\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\KO CONST\Desktop\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\KO CONST\Desktop\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\scopedcss\bundle\Taller.App.Front.styles.css
+C:\Users\KO CONST\Desktop\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\scopedcss\projectbundle\Taller.App.Front.bundle.scp.css
+C:\Users\KO CONST\Desktop\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.dll
+C:\Users\KO CONST\Desktop\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\refint\Taller.App.Front.dll
+C:\Users\KO CONST\Desktop\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.pdb
+C:\Users\KO CONST\Desktop\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.genruntimeconfig.cache
+C:\Users\KO CONST\Desktop\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\ref\Taller.App.Front.dll
+C:\Users\User Lenovo\Downloads\Equip 2 g10\Taller.App\Taller.App.Front\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User Lenovo\Downloads\Equip 2 g10\Taller.App\Taller.App.Front\bin\Debug\net6.0\appsettings.json
+C:\Users\User Lenovo\Downloads\Equip 2 g10\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.staticwebassets.runtime.json
+C:\Users\User Lenovo\Downloads\Equip 2 g10\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.exe
+C:\Users\User Lenovo\Downloads\Equip 2 g10\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.deps.json
+C:\Users\User Lenovo\Downloads\Equip 2 g10\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.runtimeconfig.json
+C:\Users\User Lenovo\Downloads\Equip 2 g10\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.dll
+C:\Users\User Lenovo\Downloads\Equip 2 g10\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.pdb
+C:\Users\User Lenovo\Downloads\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.csproj.AssemblyReference.cache
+C:\Users\User Lenovo\Downloads\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User Lenovo\Downloads\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.AssemblyInfoInputs.cache
+C:\Users\User Lenovo\Downloads\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.AssemblyInfo.cs
+C:\Users\User Lenovo\Downloads\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.csproj.CoreCompileInputs.cache
+C:\Users\User Lenovo\Downloads\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User Lenovo\Downloads\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.RazorAssemblyInfo.cache
+C:\Users\User Lenovo\Downloads\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.RazorAssemblyInfo.cs
+C:\Users\User Lenovo\Downloads\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User Lenovo\Downloads\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User Lenovo\Downloads\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User Lenovo\Downloads\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\scopedcss\bundle\Taller.App.Front.styles.css
+C:\Users\User Lenovo\Downloads\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\scopedcss\projectbundle\Taller.App.Front.bundle.scp.css
+C:\Users\User Lenovo\Downloads\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.dll
+C:\Users\User Lenovo\Downloads\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\refint\Taller.App.Front.dll
+C:\Users\User Lenovo\Downloads\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.pdb
+C:\Users\User Lenovo\Downloads\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.genruntimeconfig.cache
+C:\Users\User Lenovo\Downloads\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\ref\Taller.App.Front.dll
+E:\ACTIVIDADES_PROGRACION\Equip 2 g10\Taller.App\Taller.App.Front\bin\Debug\net6.0\appsettings.Development.json
+E:\ACTIVIDADES_PROGRACION\Equip 2 g10\Taller.App\Taller.App.Front\bin\Debug\net6.0\appsettings.json
+E:\ACTIVIDADES_PROGRACION\Equip 2 g10\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.staticwebassets.runtime.json
+E:\ACTIVIDADES_PROGRACION\Equip 2 g10\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.exe
+E:\ACTIVIDADES_PROGRACION\Equip 2 g10\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.deps.json
+E:\ACTIVIDADES_PROGRACION\Equip 2 g10\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.runtimeconfig.json
+E:\ACTIVIDADES_PROGRACION\Equip 2 g10\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.dll
+E:\ACTIVIDADES_PROGRACION\Equip 2 g10\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.pdb
+E:\ACTIVIDADES_PROGRACION\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.csproj.AssemblyReference.cache
+E:\ACTIVIDADES_PROGRACION\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.GeneratedMSBuildEditorConfig.editorconfig
+E:\ACTIVIDADES_PROGRACION\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.AssemblyInfoInputs.cache
+E:\ACTIVIDADES_PROGRACION\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.AssemblyInfo.cs
+E:\ACTIVIDADES_PROGRACION\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.csproj.CoreCompileInputs.cache
+E:\ACTIVIDADES_PROGRACION\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.MvcApplicationPartsAssemblyInfo.cache
+E:\ACTIVIDADES_PROGRACION\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.RazorAssemblyInfo.cache
+E:\ACTIVIDADES_PROGRACION\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.RazorAssemblyInfo.cs
+E:\ACTIVIDADES_PROGRACION\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\staticwebassets.build.json
+E:\ACTIVIDADES_PROGRACION\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\staticwebassets.development.json
+E:\ACTIVIDADES_PROGRACION\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\ACTIVIDADES_PROGRACION\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\scopedcss\bundle\Taller.App.Front.styles.css
+E:\ACTIVIDADES_PROGRACION\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\scopedcss\projectbundle\Taller.App.Front.bundle.scp.css
+E:\ACTIVIDADES_PROGRACION\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.dll
+E:\ACTIVIDADES_PROGRACION\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\refint\Taller.App.Front.dll
+E:\ACTIVIDADES_PROGRACION\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.pdb
+E:\ACTIVIDADES_PROGRACION\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.genruntimeconfig.cache
+E:\ACTIVIDADES_PROGRACION\Equip 2 g10\Taller.App\Taller.App.Front\obj\Debug\net6.0\ref\Taller.App.Front.dll
+C:\Users\User Lenovo\Desktop\Equip2 Grupo10\Taller.App\Taller.App.Front\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User Lenovo\Desktop\Equip2 Grupo10\Taller.App\Taller.App.Front\bin\Debug\net6.0\appsettings.json
+C:\Users\User Lenovo\Desktop\Equip2 Grupo10\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.staticwebassets.runtime.json
+C:\Users\User Lenovo\Desktop\Equip2 Grupo10\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.exe
+C:\Users\User Lenovo\Desktop\Equip2 Grupo10\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.deps.json
+C:\Users\User Lenovo\Desktop\Equip2 Grupo10\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.runtimeconfig.json
+C:\Users\User Lenovo\Desktop\Equip2 Grupo10\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.dll
+C:\Users\User Lenovo\Desktop\Equip2 Grupo10\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.pdb
+C:\Users\User Lenovo\Desktop\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.csproj.AssemblyReference.cache
+C:\Users\User Lenovo\Desktop\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User Lenovo\Desktop\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.AssemblyInfoInputs.cache
+C:\Users\User Lenovo\Desktop\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.AssemblyInfo.cs
+C:\Users\User Lenovo\Desktop\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.csproj.CoreCompileInputs.cache
+C:\Users\User Lenovo\Desktop\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User Lenovo\Desktop\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.RazorAssemblyInfo.cache
+C:\Users\User Lenovo\Desktop\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.RazorAssemblyInfo.cs
+C:\Users\User Lenovo\Desktop\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User Lenovo\Desktop\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User Lenovo\Desktop\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User Lenovo\Desktop\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\scopedcss\bundle\Taller.App.Front.styles.css
+C:\Users\User Lenovo\Desktop\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\scopedcss\projectbundle\Taller.App.Front.bundle.scp.css
+C:\Users\User Lenovo\Desktop\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.dll
+C:\Users\User Lenovo\Desktop\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\refint\Taller.App.Front.dll
+C:\Users\User Lenovo\Desktop\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.pdb
+C:\Users\User Lenovo\Desktop\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.genruntimeconfig.cache
+C:\Users\User Lenovo\Desktop\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\ref\Taller.App.Front.dll
+E:\ACTIVIDADES_PROGRACION\Equip2 Grupo10\Taller.App\Taller.App.Front\bin\Debug\net6.0\appsettings.Development.json
+E:\ACTIVIDADES_PROGRACION\Equip2 Grupo10\Taller.App\Taller.App.Front\bin\Debug\net6.0\appsettings.json
+E:\ACTIVIDADES_PROGRACION\Equip2 Grupo10\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.staticwebassets.runtime.json
+E:\ACTIVIDADES_PROGRACION\Equip2 Grupo10\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.exe
+E:\ACTIVIDADES_PROGRACION\Equip2 Grupo10\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.deps.json
+E:\ACTIVIDADES_PROGRACION\Equip2 Grupo10\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.runtimeconfig.json
+E:\ACTIVIDADES_PROGRACION\Equip2 Grupo10\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.dll
+E:\ACTIVIDADES_PROGRACION\Equip2 Grupo10\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.pdb
+E:\ACTIVIDADES_PROGRACION\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.csproj.AssemblyReference.cache
+E:\ACTIVIDADES_PROGRACION\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.GeneratedMSBuildEditorConfig.editorconfig
+E:\ACTIVIDADES_PROGRACION\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.AssemblyInfoInputs.cache
+E:\ACTIVIDADES_PROGRACION\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.AssemblyInfo.cs
+E:\ACTIVIDADES_PROGRACION\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.csproj.CoreCompileInputs.cache
+E:\ACTIVIDADES_PROGRACION\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.MvcApplicationPartsAssemblyInfo.cache
+E:\ACTIVIDADES_PROGRACION\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.RazorAssemblyInfo.cache
+E:\ACTIVIDADES_PROGRACION\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.RazorAssemblyInfo.cs
+E:\ACTIVIDADES_PROGRACION\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\staticwebassets.build.json
+E:\ACTIVIDADES_PROGRACION\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\staticwebassets.development.json
+E:\ACTIVIDADES_PROGRACION\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\ACTIVIDADES_PROGRACION\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\scopedcss\bundle\Taller.App.Front.styles.css
+E:\ACTIVIDADES_PROGRACION\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\scopedcss\projectbundle\Taller.App.Front.bundle.scp.css
+E:\ACTIVIDADES_PROGRACION\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.dll
+E:\ACTIVIDADES_PROGRACION\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\refint\Taller.App.Front.dll
+E:\ACTIVIDADES_PROGRACION\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.pdb
+E:\ACTIVIDADES_PROGRACION\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.genruntimeconfig.cache
+E:\ACTIVIDADES_PROGRACION\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\ref\Taller.App.Front.dll
+C:\Users\Sistemas01\Documents\Programación MinTiC-UdeCaldas\Ciclo 3 Programación\Equip2 Grupo10\Taller.App\Taller.App.Front\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Sistemas01\Documents\Programación MinTiC-UdeCaldas\Ciclo 3 Programación\Equip2 Grupo10\Taller.App\Taller.App.Front\bin\Debug\net6.0\appsettings.json
+C:\Users\Sistemas01\Documents\Programación MinTiC-UdeCaldas\Ciclo 3 Programación\Equip2 Grupo10\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.staticwebassets.runtime.json
+C:\Users\Sistemas01\Documents\Programación MinTiC-UdeCaldas\Ciclo 3 Programación\Equip2 Grupo10\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.exe
+C:\Users\Sistemas01\Documents\Programación MinTiC-UdeCaldas\Ciclo 3 Programación\Equip2 Grupo10\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.deps.json
+C:\Users\Sistemas01\Documents\Programación MinTiC-UdeCaldas\Ciclo 3 Programación\Equip2 Grupo10\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.runtimeconfig.json
+C:\Users\Sistemas01\Documents\Programación MinTiC-UdeCaldas\Ciclo 3 Programación\Equip2 Grupo10\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.dll
+C:\Users\Sistemas01\Documents\Programación MinTiC-UdeCaldas\Ciclo 3 Programación\Equip2 Grupo10\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.pdb
+C:\Users\Sistemas01\Documents\Programación MinTiC-UdeCaldas\Ciclo 3 Programación\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.csproj.AssemblyReference.cache
+C:\Users\Sistemas01\Documents\Programación MinTiC-UdeCaldas\Ciclo 3 Programación\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sistemas01\Documents\Programación MinTiC-UdeCaldas\Ciclo 3 Programación\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.AssemblyInfoInputs.cache
+C:\Users\Sistemas01\Documents\Programación MinTiC-UdeCaldas\Ciclo 3 Programación\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.AssemblyInfo.cs
+C:\Users\Sistemas01\Documents\Programación MinTiC-UdeCaldas\Ciclo 3 Programación\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas01\Documents\Programación MinTiC-UdeCaldas\Ciclo 3 Programación\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sistemas01\Documents\Programación MinTiC-UdeCaldas\Ciclo 3 Programación\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.RazorAssemblyInfo.cache
+C:\Users\Sistemas01\Documents\Programación MinTiC-UdeCaldas\Ciclo 3 Programación\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.RazorAssemblyInfo.cs
+C:\Users\Sistemas01\Documents\Programación MinTiC-UdeCaldas\Ciclo 3 Programación\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Sistemas01\Documents\Programación MinTiC-UdeCaldas\Ciclo 3 Programación\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Sistemas01\Documents\Programación MinTiC-UdeCaldas\Ciclo 3 Programación\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Sistemas01\Documents\Programación MinTiC-UdeCaldas\Ciclo 3 Programación\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\scopedcss\bundle\Taller.App.Front.styles.css
+C:\Users\Sistemas01\Documents\Programación MinTiC-UdeCaldas\Ciclo 3 Programación\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\scopedcss\projectbundle\Taller.App.Front.bundle.scp.css
+C:\Users\Sistemas01\Documents\Programación MinTiC-UdeCaldas\Ciclo 3 Programación\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.dll
+C:\Users\Sistemas01\Documents\Programación MinTiC-UdeCaldas\Ciclo 3 Programación\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\refint\Taller.App.Front.dll
+C:\Users\Sistemas01\Documents\Programación MinTiC-UdeCaldas\Ciclo 3 Programación\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.pdb
+C:\Users\Sistemas01\Documents\Programación MinTiC-UdeCaldas\Ciclo 3 Programación\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.genruntimeconfig.cache
+C:\Users\Sistemas01\Documents\Programación MinTiC-UdeCaldas\Ciclo 3 Programación\Equip2 Grupo10\Taller.App\Taller.App.Front\obj\Debug\net6.0\ref\Taller.App.Front.dll

@@ -1,0 +1,80 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Taller.App.Front
+build_property.RootNamespace = Taller.App.Front
+build_property.ProjectDir = C:\Users\Sistemas01\Documents\Programación MinTiC-UdeCaldas\Ciclo 3 Programación\Equip2 Grupo10\Taller.App\Taller.App.Front\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Sistemas01\Documents\Programación MinTiC-UdeCaldas\Ciclo 3 Programación\Equip2 Grupo10\Taller.App\Taller.App.Front
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Sistemas01/Documents/Programación MinTiC-UdeCaldas/Ciclo 3 Programación/Equip2 Grupo10/Taller.App/Taller.App.Front/Pages/citas/citas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2l0YXNcY2l0YXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sistemas01/Documents/Programación MinTiC-UdeCaldas/Ciclo 3 Programación/Equip2 Grupo10/Taller.App/Taller.App.Front/Pages/creacionMecanico/creacionMecanico.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY3JlYWNpb25NZWNhbmljb1xjcmVhY2lvbk1lY2FuaWNvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sistemas01/Documents/Programación MinTiC-UdeCaldas/Ciclo 3 Programación/Equip2 Grupo10/Taller.App/Taller.App.Front/Pages/creacionUsuario/creacionUsuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY3JlYWNpb25Vc3VhcmlvXGNyZWFjaW9uVXN1YXJpby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sistemas01/Documents/Programación MinTiC-UdeCaldas/Ciclo 3 Programación/Equip2 Grupo10/Taller.App/Taller.App.Front/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sistemas01/Documents/Programación MinTiC-UdeCaldas/Ciclo 3 Programación/Equip2 Grupo10/Taller.App/Taller.App.Front/Pages/historial/historial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaGlzdG9yaWFsXGhpc3RvcmlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sistemas01/Documents/Programación MinTiC-UdeCaldas/Ciclo 3 Programación/Equip2 Grupo10/Taller.App/Taller.App.Front/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sistemas01/Documents/Programación MinTiC-UdeCaldas/Ciclo 3 Programación/Equip2 Grupo10/Taller.App/Taller.App.Front/Pages/Login/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sistemas01/Documents/Programación MinTiC-UdeCaldas/Ciclo 3 Programación/Equip2 Grupo10/Taller.App/Taller.App.Front/Pages/mecanico/mecanico.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbWVjYW5pY29cbWVjYW5pY28uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sistemas01/Documents/Programación MinTiC-UdeCaldas/Ciclo 3 Programación/Equip2 Grupo10/Taller.App/Taller.App.Front/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sistemas01/Documents/Programación MinTiC-UdeCaldas/Ciclo 3 Programación/Equip2 Grupo10/Taller.App/Taller.App.Front/Pages/revisiones/revisiones.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccmV2aXNpb25lc1xyZXZpc2lvbmVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sistemas01/Documents/Programación MinTiC-UdeCaldas/Ciclo 3 Programación/Equip2 Grupo10/Taller.App/Taller.App.Front/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sistemas01/Documents/Programación MinTiC-UdeCaldas/Ciclo 3 Programación/Equip2 Grupo10/Taller.App/Taller.App.Front/Pages/usuario/usuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdXN1YXJpb1x1c3VhcmlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sistemas01/Documents/Programación MinTiC-UdeCaldas/Ciclo 3 Programación/Equip2 Grupo10/Taller.App/Taller.App.Front/Pages/vehiculo/vehiculo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdmVoaWN1bG9cdmVoaWN1bG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sistemas01/Documents/Programación MinTiC-UdeCaldas/Ciclo 3 Programación/Equip2 Grupo10/Taller.App/Taller.App.Front/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sistemas01/Documents/Programación MinTiC-UdeCaldas/Ciclo 3 Programación/Equip2 Grupo10/Taller.App/Taller.App.Front/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sistemas01/Documents/Programación MinTiC-UdeCaldas/Ciclo 3 Programación/Equip2 Grupo10/Taller.App/Taller.App.Front/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-hvx31kelq3

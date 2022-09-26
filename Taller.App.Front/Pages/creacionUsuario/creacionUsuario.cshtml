@@ -1,0 +1,152 @@
+﻿@page
+@model Taller.App.Front.Pages.creacionUsuarioModel
+@{
+}
+
+<style>
+    body {
+        background-color: #fffbed;
+    }
+</style>
+<div class="cs-vehiculod">
+    <H1>Informacion Usuario</H1>
+</div>
+<form class="row g-3">
+    <div class="col-md-2">
+        <label for="inputZip" class="form-label">Numero de documento</label>
+        <input type="number" class="form-control" id="inputZip" required>
+    </div>
+    <div class="col-md-4">
+        <label for="inputNombre" class="form-label">Nombre Completo</label>
+        <input type="text" class="form-control" id="inputNombre" required>
+    </div>
+    <div class="col-md-4">
+        <label for="inputPassword4" class="form-label">Telefono de contacto</label>
+        <input type="number" class="form-control" id="inputPassword4" required>
+    </div>
+    <div class="col-md-2">
+        <label for="inputAddress" class="form-label">Fecha de Nacimiento</label>
+        <input type="date" class="form-control" id="inputAddress" required>
+    </div>
+    <div class="col-md-2">
+        <label for="inputCiudad" class="form-label">Ciudad</label>
+        <select id="inputCiudad" class="form-select">
+            <option selected>Medellín</option>
+            <option>Bogotá</option>
+            <option>Manizales</option>
+            <option>Barranquilla</option>
+            <option>Pereira</option>
+            <option>Armenia</option>
+            <option>Cali</option>
+            <option>Pasto</option>
+        </select>
+    </div>
+    <div class="col-md-6">
+        <label for="inputEmail4" class="form-label">Correo Electronico</label>
+        <input type="email" class="form-control" id="inputEmail4" required>
+    </div>
+    <div class="cs-vehiculod">
+        <H1>Informacion vehiculo</H1>
+    </div>
+    <div class="col-md-2">
+        <label for="inputPlaca" class="form-label">Placa</label>
+        <input type="text" class="form-control" id="inputPlaca" required>
+    </div>
+    <div class="col-md-2">
+        <label for="inputTipoVehiculo" class="form-label">Tipo vehiculo</label>
+        <select id="inputTipoVehiculo" class="form-select">
+            <option selected>Automóvil </option>
+            <option>Campero </option>
+            <option>Camioneta </option>
+            <option>Microbús </option>
+            <option>Bus</option>
+            <option>Buseta </option>
+            <option>Camión </option>
+            <option>Tractocamión</option>
+        </select>
+    </div>
+    <div class="col-md-2">
+        <label for="inputMarca" class="form-label">Tipo Marca</label>
+        <select id="inputMarca" class="form-select">
+            <option selected>Renault </option>
+            <option>Chevrolet </option>
+            <option>Toyota </option>
+            <option>Mazda </option>
+            <option>Susuki</option>
+        </select>
+    </div>
+    <div class="col-md-2">
+        <label for="inputModelo" class="form-label">Modelo</label>
+        <select id="inputModelo" class="form-select">
+            <option selected>2023 </option>
+            <option>2022 </option>
+            <option>2021 </option>
+            <option>2020 </option>
+            <option>2019</option>
+            <option>2018 </option>
+            <option>2017 </option>
+            <option>2016 </option>
+            <option>2015</option>
+            <option>2014</option>
+            <option>2013 </option>
+            <option>2012 </option>
+            <option>2011 </option>
+            <option>2010</option>
+
+        </select>
+    </div>
+
+    <div class="col-md-2">
+        <label for="inputModelo" class="form-label">Capacidad pasajeros</label>
+        <select id="inputModelo" class="form-select">
+            <option selected>2 </option>
+            <option>3 </option>
+            <option>4 </option>
+            <option>5 </option>
+            <option>6</option>
+            <option>7 </option>
+            <option>8 </option>
+            <option>9 </option>
+            <option>10</option>
+            <option>11</option>
+            <option>12</option>
+            <option>13</option>
+            <option>14</option>
+            <option>15</option>
+            <option>16</option>
+            <option>17 </option>
+            <option>18 </option>
+            <option>19 </option>
+            <option>20</option>
+            <option>21</option>
+            <option>22</option>
+            <option>23</option>
+            <option>24</option>
+            <option>25</option>
+            <option>26</option>
+            <option>27 </option>
+            <option>28 </option>
+            <option>29 </option>
+            <option>30</option>
+        </select>
+    </div>
+    <div class="col-md-2">
+        <label for="inputZip" class="form-label">Cilindraje Motor</label>
+        <input type="number" class="form-control" id="inputZip" required>
+    </div>
+    <div class="mb-3">
+  <label for="exampleFormControlTextarea1" class="form-label">Descripcion del vehiculo</label>
+  <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea >
+</div>
+    <div class="col-12">
+        <div class="form-check">
+            <input class="form-check-input" type="checkbox" id="gridCheck" required>
+            <label class="form-check-label" for="gridCheck"  required>
+                No soy un robot
+            </label>
+        </div>
+    </div>
+    <div class="col-12">
+        <button type="submit" class="btn btn-primary">Registrar</button>
+    </div>
+</form>

@@ -1,0 +1,47 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.centrado{
+  margin-left: 80px;
+
+}
+
+.tamamo-nombre{
+  width: 5000px;
+}
+
+.cs-container{
+  display: flex;
+  margin-left: 0px;
+  border-style: solid;
+  border-radius: 5px;
+  margin-right: 1151px;
+
+background-color: #9D96F6;
+  }
+
+  .cs-vehiculo{
+    text-align: center;
+    font-weight:900;
+    font-size:larger;
+  }
+
+  .cs-vehiculod{
+    text-align: center;
+  }
